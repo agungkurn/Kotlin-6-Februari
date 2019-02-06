@@ -34,6 +34,7 @@ class MovieAdapter(
         fun bindItem(title: String, description: String, @DrawableRes poster: Int) {
             Picasso.get()
                 .load(poster)
+                .resize(500, 750)
                 .into(itemView.iv_poster)
 
             itemView.setOnClickListener {
