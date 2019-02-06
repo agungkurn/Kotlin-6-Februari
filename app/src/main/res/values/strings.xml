@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Today\'s Movie</string>
+
+    <!-- Movie title -->
+    <string-array name="array_movie">
+        <item>Ant-man and The Wasp</item>
+        <item>Arctic</item>
+        <item>Avengers: Infinity War</item>
+        <item>BumbleBee</item>
+        <item>Creed II</item>
+        <item>Glass</item>
+        <item>How to Train Your Dragon: The Hidden World</item>
+        <item>Johnny English: Strikes Again</item>
+        <item>Mission Impossible: Fallout</item>
+        <item>The Kid Who Would be King</item>
+    </string-array>
+
+    <!-- Movie poster -->
+    <integer-array name="array_poster">
+        <item>@drawable/img_antman_wasp</item>
+        <item>@drawable/img_arctic</item>
+        <item>@drawable/img_avengers_infinity</item>
+        <item>@drawable/img_bumblebee</item>
+        <item>@drawable/img_creed_2</item>
+        <item>@drawable/img_glass</item>
+        <item>@drawable/img_how_to_train_your_dragon_3</item>
+        <item>@drawable/img_johnny_english</item>
+        <item>@drawable/img_mi_fallout</item>
+        <item>@drawable/img_the_kid_who_would_be_king</item>
+    </integer-array>
+
+    <string-array name="array_description">
+        <item>
+            Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.
+        </item>
+        <item>
+            A man stranded in the Arctic is finally about to receive his long awaited rescue. However, after a tragic accident, his opportunity is lost and he must then decide whether to remain in the relative safety of his camp or embark on a deadly trek through the unknown for potential salvation.
+        </item>
+        <item>
+            As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.
+        </item>
+        <item>
+            On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.
+        </item>
+        <item>
+            Follows Adonis Creed\'s life inside and outside of the ring as he deals with new found fame, issues with his family, and his continuing quest to become a champion.
+        </item>
+        <item>
+            In a series of escalating encounters, security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.
+        </item>
+        <item>
+            As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless\' discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup\'s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.
+        </item>
+        <item>
+            Disaster strikes when a criminal mastermind reveals the identities of all active undercover agents in Britain. The secret service can now rely on only one man - Johnny English. Currently teaching at a minor prep school, Johnny springs back into action to find the mysterious hacker. For this mission to succeed, he\'ll need all of his skills - what few he has - as the man with yesterday\'s analogue methods faces off against tomorrow\'s digital technology.
+        </item>
+        <item>
+            When an IMF mission ends badly, the world is faced with dire consequences. As Ethan Hunt takes it upon himself to fulfill his original briefing, the CIA begin to question his loyalty and his motives. The IMF team find themselves in a race against time, hunted by assassins while trying to prevent a global catastrophe.
+        </item>
+        <item>
+            Alex thinks he\'s just another nobody, until he stumbles upon the mythical Sword in the Stone, Excalibur. Now, he must unite his friends and enemies into a band of knights and, together with the legendary wizard Merlin, take on the wicked enchantress Morgana. With the future at stake, Alex must become the great leader he never dreamed he could be.
+        </item>
+    </string-array>
+</resources>
