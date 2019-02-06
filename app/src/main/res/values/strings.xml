@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Learn Android with Kotlin</string>
+	<string name="text_ubah_teks">Ubah teks</string>
+</resources>
