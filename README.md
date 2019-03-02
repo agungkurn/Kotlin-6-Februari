@@ -4,5 +4,5 @@
 <h2>Learn Kotlin</h2>
 <img src="screenshots/Screenshot_1549453677.png"/>
 
-<h2><a href="tree/learn-recyclerview">Today's Movie</a></h2>
+<h2><a href="../../tree/learn-recyclerview">Today's Movie</a></h2>
 <img src="screenshots/Screenshot_1549453796.png"/>
